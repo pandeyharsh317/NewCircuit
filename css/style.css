@@ -18,7 +18,7 @@ a {
 
 /* Header Section */
 header {
-    background-color: rgb(31, 153, 177);
+    background-color:red;
     color: #fff;
     padding: 20px 0;
     text-align:right;
@@ -78,7 +78,7 @@ main {
 
 /* Footer Section */
 .footer {
-    background-color: rgb(31, 153, 177);
+    background-color: red;
     color: white;
     padding: 40px 20px;
     font-family: 'Courier New', Courier, monospace;
