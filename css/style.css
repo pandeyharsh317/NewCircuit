@@ -402,7 +402,7 @@ main {
 
 /* Hero Section */
 .about-hero {
-    background-image: url('/images/Passport.jpg');
+    background-image: url('images/Passport.jpg');
     background-size: cover;
     background-position: center;
     color: cyan;
@@ -506,7 +506,7 @@ main {
 
 /* Hero Section */
 .service-hero {
-    background-image: url('/images/bhaktMahakal.jpg');
+    background-image: url('images/bhaktMahakal.jpg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -584,7 +584,7 @@ main {
 
 /* Hero Section */
 .gallery-heroo {
-    background-image: url('/images/GHAT_BOAT.jpg');
+    background-image: url('images/GHAT_BOAT.jpg');
     background-size: cover;
     background-position: center;
     color: white;
